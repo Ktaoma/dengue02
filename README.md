@@ -14,9 +14,6 @@ Please install the following R packages before running the script.
 7. ggplot2 (https://github.com/tidyverse/ggplot2)
 8. stringr (https://github.com/tidyverse/stringr)
 
-# Fastq data
-Raw sequencing reads were deposited in the Sequence Read Archive (SRA) under BioProject accession number PRJNA1214984.
-
 # Usage
 After install all required packages, you can run the script with following command
 
